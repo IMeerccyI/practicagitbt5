@@ -1,0 +1,17 @@
+.conteinerColor{
+    color: rgb(241, 238, 238);
+    background-color: rgb(71, 66, 66);
+    justify-content: center;
+    text-align: center;
+}
+
+.menuColor{
+    background-color: rgb(60, 112, 60);
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
